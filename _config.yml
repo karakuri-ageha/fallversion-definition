@@ -1,5 +1,5 @@
 title: Fallversion Definition
-description: システム内部崩壊現象の構造的定義書
+description: 設計を守るべき者が、設計を破壊する
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
   - jekyll-remote-theme
